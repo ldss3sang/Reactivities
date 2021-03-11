@@ -3,5 +3,6 @@
         "**/bin": true,
         "**/obj": true
     },
-    "http.proxyStrictSSL": false
+    "http.proxyStrictSSL": false,
+    "csharpextensions.useThisForCtorAssignments": false
 }
