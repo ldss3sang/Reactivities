@@ -4,5 +4,6 @@
         "**/obj": true
     },
     "http.proxyStrictSSL": false,
-    "csharpextensions.useThisForCtorAssignments": false
+    "csharpextensions.useThisForCtorAssignments": false,
+    "csharpextensions.privateMemberPrefix": "_"
 }

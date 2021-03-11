@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sangs\\Development\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sangs\\Development\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sangs\\Development\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\sangs\\Development\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\sangs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sangs\\Development\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\sangseok.doe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sangs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sangseok.doe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -26,7 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuredevops.prdrlc.net/rlcollection/_packaging/RLCarriersInternalFeed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -62,20 +64,21 @@
         }
       }
     },
-    "C:\\Users\\sangs\\Development\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sangs\\Development\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\sangs\\Development\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\sangs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sangs\\Development\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\sangseok.doe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sangs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sangseok.doe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -84,14 +87,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuredevops.prdrlc.net/rlcollection/_packaging/RLCarriersInternalFeed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\sangs\\Development\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\sangs\\Development\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
