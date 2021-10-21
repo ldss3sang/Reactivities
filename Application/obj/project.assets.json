@@ -1225,24 +1225,25 @@
   },
   "packageFolders": {
     "C:\\Users\\sangseok.doe\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\sangseok.doe\\Documents\\Development\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\sangseok.doe\\Documents\\Development\\Reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\sangseok.doe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Application\\obj\\",
+      "outputPath": "C:\\Users\\sangseok.doe\\Documents\\Development\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\sangseok.doe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1258,11 +1259,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\sangseok.doe\\Documents\\Development\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\sangseok.doe\\Documents\\Development\\Reactivities\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\Persistence\\Persistence.csproj"
+            "C:\\Users\\sangseok.doe\\Documents\\Development\\Reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\sangseok.doe\\Documents\\Development\\Reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -1301,7 +1302,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
       }
     }
   }

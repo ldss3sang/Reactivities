@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rbMyGlTGSdK7sz6WYN40jBMkmR3AotQBd8enJhJY9qLwXP0zqyryn8qZfqD+GspJKFcEyp6gJ8pIxYlltmQIAQ==",
+  "dgSpecHash": "S514AuIf40KvxIrf+DSyWpGvX8rTRtzjIHQ1nZrEh0pxauT4XXDTNfTcFty1M/2Sn5FOwfA5buPe2luynsnBVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sangseok.doe\\Development\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\sangseok.doe\\Documents\\Development\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sangseok.doe\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\sangseok.doe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -43,7 +43,8 @@
     "C:\\Users\\sangseok.doe\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\sangseok.doe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\sangseok.doe\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\sangseok.doe\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+    "C:\\Users\\sangseok.doe\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\sangseok.doe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
   ],
   "logs": []
 }
